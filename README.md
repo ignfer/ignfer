@@ -1,7 +1,7 @@
 Hi! i'm Ignacio, a 21 years old Uruguayan 🇺🇾 student passionate about learning and working on coding and design.
 
 I started this journey back on 2017, (although I remember using scratch at 6 years old in an OLPC), during my last 3 high school years I take the IT specialization and during those 3 years I've worked with: 
-
+![Banner](ignfer_1.png)
 Java ☕
 Visual Basics ⚙️
 HTML & CSS 💻
