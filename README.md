@@ -13,7 +13,7 @@ I also learned about methodologies like SCRUM and very interestings things like 
 Currently I'm on my second year of an IT technologist degree 👨‍💻, in the first year I used
 
 Assembly 💾
-C and C++ (mostly centered on memory managment) 🇨
+C and C++ (mostly centred on memory managment) 🇨
 Python 🐍
 
 I'm learning by my own javascript and I already used it to create a recursive sudoku solver✏️ , and I'm planning a lot of projects that you can find here on my github profile!
