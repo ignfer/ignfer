@@ -1,26 +1,12 @@
 ![Banner](ignfer_2.png)
-Hi! i'm Ignacio, a 21 years old Uruguayan 🇺🇾 student passionate about learning and working on coding and design.
 
-I started this journey back on 2017, (although I remember using scratch at 6 years old in an OLPC), during my last 3 high school years I take the IT specialization and during those 3 years I've worked with: 
+✋Hello! My name is Ignacio, and I'm a 21 years old Uruguayan 🇺🇾 university student passionate about software development and the world of computer science and technology.
 
-Java ☕
-Visual Basics ⚙️
-HTML & CSS 💻
+* [Visit my LinkedIn 💼](www.linkedin.com/in/ignaciofernández)
+* [Contact me](nachofernandezuru@gmail.com) 
+  
+📘Throughout my studies, I've worked with a wide variety of technologies such as **MySQL, Java, Python, C++, HTML, CSS, and JavaScript, among many others**. 
 
-I also learned about methodologies like SCRUM and very interestings things like UML.
+⚛️On my own, I am learning new technologies for user interface design such as **Tailwind CSS and React**. While I am very interested in the logic of programming and how things work at a more complex level, I also have a strong interest in creating modern and competitive interfaces that catch the end user's attention while making their life easier!
 
-
-Currently I'm on my second year of an IT technologist degree 👨‍💻, in the first year I used
-
-Assembly 💾
-C and C++ (mostly centred on memory managment) 🇨
-Python 🐍
-
-I'm learning by my own javascript and I already used it to create a recursive sudoku solver✏️ , and I'm planning a lot of projects that you can find here on my github profile!
-
-I want to keep learning as much as posible so I can get myself a job on the development industry because is my dream and I'm really passionate about it.
-
-<!---
-SinKsa/SinKsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here, on my GitHub profile, you'll find the projects I've been working on most recently!
