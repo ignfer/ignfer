@@ -1,4 +1,4 @@
-![Banner](ignfer_2.png)
+![Banner](https://github.com/ignfer/ignfer/blob/main/banner-clean-short.png)
 
 ✋Hello! My name is Ignacio, and I'm a 21 years old Uruguayan 🇺🇾 university student passionate about software development and the world of computer science and technology.
 
