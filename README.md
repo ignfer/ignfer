@@ -2,8 +2,7 @@
 
 ✋Hello! My name is Ignacio, and I'm a 21 years old Uruguayan 🇺🇾 university student passionate about software development and the world of computer science and technology.
 
-* [Visit my LinkedIn 💼](www.linkedin.com/in/ignaciofernández)
-* [Contact me](nachofernandezuru@gmail.com) 
+* [Visit my LinkedIn 💼](https://www.linkedin.com/in/ignaciofern%C3%A1ndez/)
   
 📘Throughout my studies, I've worked with a wide variety of technologies such as **MySQL, Java, Python, C++, HTML, CSS, and JavaScript, among many others**. 
 
