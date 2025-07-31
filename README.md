@@ -14,4 +14,4 @@
 ### Let’s Connect
 
 * [Visit my LinkedIn 💼](https://www.linkedin.com/in/ignaciofern%C3%A1ndez/)
-* [Visit my portfolio](https://ignfer.github.io/portfolio/)
+* [Visit my portfolio](https://ignfer.com/home)
