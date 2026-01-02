@@ -3,7 +3,9 @@
 ### About me
 * ✋ Hello! I'm Ignacio, a Front-End Developer and UX/UI Designer from Uruguay 🇺🇾. I'm passionate about software development, computer science, and technology.
 
-* 💼 Since April 2024, I've been working as a full-time Front-End Developer at a fast-paced tech startup focused on logistics and freight forwarding. This role has provided me the opportunity to grow professionally, take initiative, and tackle complex projects early in my career.
+* 💼 Since December 2025 I'm working as a Software Engineer at Perceptyx, a EX focused and custom-driven platform, this was my first step into a bigger environment, with greater challenges and the opportunity to close the gap between my startup-focused background and a more robust approach.
+
+* 💼 From April 2024 to November 2025, I've worked as a full-time Front-End Developer at a fast-paced tech startup focused on logistics and freight forwarding. This role has provided me the opportunity to grow professionally, take initiative, and tackle complex projects early in my career.
 
 * 🖌️ With a strong focus on aesthetics and a creative background, I bring unique value as a developer who seamlessly integrates brand design and UX/UI principles into front-end work. Currently, I'm also expanding my skill set by delving deeper into backend development.
 
